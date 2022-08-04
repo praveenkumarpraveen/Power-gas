@@ -17,6 +17,6 @@ This is a web based application developed for  power gas based website in india
 - User can know about power gas information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
 
-📸! (Screenshot 2022-08-4) (data:image/jpg;base64,/)
+
+
